@@ -1,0 +1,25 @@
+import os
+import glob
+import pandas as pd
+from pathlib import Path
+from typing import Dict, List, Optional
+class LocalDataLoader:
+    def __init__(self, data_dir: str):
+        if data_dir is None or not os.path.exists(data_dir):
+            raise ValueError(f"Data directory {data_dir} does not exist.")
+        self.data_dir = data_dir
+        self.indices_path = self.data_dir / "1_market_indices"
+        self.stocks_path = self.data_dir / "2_individual_stocks_vn30"
+    def _standardize_ohlcv(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Standardize the OHLCV columns to a consistent format.
+        """
+        df = df.rename(columns={
+            'Open': 'open',
+            'High': 'high',
+            'Low': 'low',
+            'Close': 'close',
+            'Volume': 'volume'
+        })
+        return df[['date', 'open', 'high', 'low', 'close', 'volume']]
+    def load_stock()
