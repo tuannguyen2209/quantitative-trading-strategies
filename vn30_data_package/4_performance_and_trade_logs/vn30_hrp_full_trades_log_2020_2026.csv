@@ -1,0 +1,304 @@
+symbol,entry_date,exit_date,holding_days,reason,net_pnl,net_return_%,phase,tier
+VPB,2020-05-18,2020-05-21,3,Time Stop T+3 (Không sinh lời),-3939592.0,-2.11,Phase 1,Tier 1
+STB,2020-05-20,2020-05-25,3,Time Stop T+3 (Không sinh lời),-5401540.0,-1.93,Phase 1,Tier 1
+CTG,2020-05-19,2020-05-26,5,Cycle Exit T+5 (+3.88% < Chuẩn Phase 2),9411134.0,3.36,Phase 1,Tier 1
+ACB,2020-06-01,2020-06-08,5,Cycle Exit T+5 (+1.28% < Chuẩn Phase 2),1563632.0,0.78,Phase 1,Tier 1
+VRE,2020-05-28,2020-06-11,10,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-6821684.0,-3.45,Phase 2,Tier 1
+VIC,2020-06-16,2020-06-23,5,Cycle Exit T+5 (+0.84% < Chuẩn Phase 2),494900.0,0.34,Phase 1,Tier 1
+VHM,2020-07-06,2020-07-09,3,Time Stop T+3 (Không sinh lời),-989805.0,-0.5,Phase 1,Tier 1
+MCH,2020-07-07,2020-07-10,3,Time Stop T+3 (Không sinh lời),-229237.95,-0.52,Phase 1,Tier 1
+VIB,2020-07-08,2020-07-13,3,Time Stop T+3 (Không sinh lời),-755160.0,-0.5,Phase 1,Tier 1
+FPT,2020-07-13,2020-07-17,4,Time Stop T+4 (Không sinh lời),-3511064.0,-1.67,Phase 1,Tier 1
+ACB,2020-07-17,2020-07-23,4,Time Stop T+4 (Không sinh lời),-4347640.0,-2.92,Phase 1,Tier 1
+VRE,2020-07-23,2020-07-29,4,Hard Stop-Loss (-5.5%),-15004980.0,-10.15,Phase 1,Tier 1
+VIC,2020-07-31,2020-08-05,3,Time Stop T+3 (Không sinh lời),-1530838.0,-1.06,Phase 1,Tier 1
+ACB,2020-08-11,2020-08-14,3,Time Stop T+3 (Không sinh lời),-1992924.0,-0.97,Phase 1,Tier 1
+VIC,2020-08-24,2020-08-31,5,Cycle Exit T+5 (+1.14% < Chuẩn Phase 2),928330.0,0.63,Phase 1,Tier 1
+VIC,2020-09-03,2020-09-08,3,Time Stop T+3 (Không sinh lời),-6747844.0,-4.72,Phase 1,Tier 1
+VRE,2020-09-03,2020-09-10,5,Cycle Exit T+5 (+1.07% < Chuẩn Phase 2),828522.0,0.56,Phase 1,Tier 1
+SHB,2020-09-11,2020-09-16,3,Time Stop T+3 (Không sinh lời),-5621780.0,-2.75,Phase 1,Tier 1
+VIC,2020-09-15,2020-09-18,3,Time Stop T+3 (Không sinh lời),-3166800.0,-1.56,Phase 1,Tier 1
+HPG,2020-09-17,2020-09-24,5,Cycle Exit T+5 (+1.05% < Chuẩn Phase 2),1106535.0,0.54,Phase 1,Tier 1
+TCB,2020-09-18,2020-09-25,5,Cycle Exit T+5 (+2.68% < Chuẩn Phase 2),4440422.0,2.16,Phase 1,Tier 1
+MBB,2020-09-24,2020-10-01,5,Cycle Exit T+5 (+1.31% < Chuẩn Phase 2),1674741.0,0.81,Phase 1,Tier 1
+LPB,2020-09-14,2020-11-10,41,Dynamic Momentum Exit (Gãy EMA10 + Xả Vol lớn),40330290.0,19.72,Phase 2,Tier 1
+MSN,2020-10-09,2020-11-13,25,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),66465192.0,31.66,Phase 2,Tier 1
+ACB,2020-11-12,2020-11-19,5,Cycle Exit T+5 (+3.05% < Chuẩn Phase 2),5825733.0,2.53,Phase 1,Tier 1
+VHM,2020-11-23,2020-11-30,5,Cycle Exit T+5 (+2.48% < Chuẩn Phase 2),3219189.0,1.97,Phase 1,Tier 1
+VRE,2020-12-02,2020-12-07,3,Time Stop T+3 (Không sinh lời),-1929477.0,-1.19,Phase 1,Tier 1
+VRE,2020-12-14,2020-12-17,3,Time Stop T+3 (Không sinh lời),-2151128.0,-1.32,Phase 1,Tier 1
+BSR,2020-12-28,2020-12-31,3,Time Stop T+3 (Không sinh lời),-8030274.0,-3.49,Phase 1,Tier 1
+VRE,2020-12-29,2021-01-04,3,Time Stop T+3 (Không sinh lời),-1146375.0,-0.5,Phase 1,Tier 1
+VIC,2021-01-05,2021-01-13,6,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),1235487.0,0.77,Phase 2,Tier 1
+STB,2021-01-04,2021-01-19,11,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),20244900.0,8.86,Phase 2,Tier 1
+MWG,2021-01-25,2021-01-28,3,Hard Stop-Loss (-4.5%),-14842520.0,-6.36,Phase 1,Tier 1
+VHM,2021-01-29,2021-02-01,1,Hard Stop-Loss (-4.5%),-9851205.0,-6.04,Phase 1,Tier 1
+VIC,2021-02-02,2021-02-08,4,Hard Stop-Loss (-4.5%),-8189784.0,-5.11,Phase 1,Tier 1
+GAS,2021-02-17,2021-02-24,5,Cycle Exit T+5 (+1.38% < Chuẩn Phase 2),1980640.0,0.87,Phase 1,Tier 1
+GVR,2021-03-12,2021-03-18,4,Time Stop T+4 (Không sinh lời),-1897204.0,-1.13,Phase 1,Tier 1
+BSR,2021-03-04,2021-04-13,28,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),11809344.0,7.15,Phase 2,Tier 1
+VIC,2021-04-13,2021-04-20,5,Cycle Exit T+5 (+1.70% < Chuẩn Phase 2),2083676.0,1.19,Phase 1,Tier 1
+SSB,2021-03-29,2021-04-23,18,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),16540540.0,5.41,Phase 2,Tier 1
+FPT,2021-05-10,2021-05-13,3,Time Stop T+3 (Không sinh lời),-6917112.0,-2.62,Phase 1,Tier 1
+VHM,2021-05-21,2021-05-28,5,Cycle Exit T+5 (+0.68% < Chuẩn Phase 2),336960.0,0.18,Phase 1,Tier 1
+VPB,2021-02-09,2021-06-15,82,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),162712803.0,71.97,Phase 2,Tier 1
+SAB,2021-06-11,2021-07-06,17,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-1484595.0,-0.55,Phase 2,Tier 1
+GVR,2021-06-15,2021-07-06,15,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),15715624.0,5.83,Phase 2,Tier 1
+FPT,2021-06-29,2021-07-06,5,Time Stop T+3 (Không sinh lời),-6470856.0,-2.33,Phase 1,Tier 1
+MSN,2021-07-07,2021-07-13,4,Time Stop T+3 (Không sinh lời),-3630732.0,-1.35,Phase 1,Tier 1
+VIC,2021-08-03,2021-08-06,3,Time Stop T+3 (Không sinh lời),-2896582.0,-1.54,Phase 1,Tier 1
+STB,2021-08-04,2021-08-10,4,Time Stop T+3 (Không sinh lời),-1787280.0,-0.66,Phase 1,Tier 1
+VHM,2021-08-06,2021-08-16,6,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),2517696.0,1.32,Phase 2,Tier 1
+VJC,2021-08-19,2021-09-17,19,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),6594280.0,3.56,Phase 2,Tier 1
+BSR,2021-09-15,2021-09-21,4,Time Stop T+4 (Không sinh lời),-9002805.0,-4.62,Phase 1,Tier 1
+MSN,2021-09-15,2021-09-21,4,Time Stop T+4 (Không sinh lời),-2807872.0,-1.46,Phase 1,Tier 1
+VPB,2021-09-17,2021-09-23,4,Time Stop T+4 (Không sinh lời),-967050.0,-0.5,Phase 1,Tier 1
+LPB,2021-09-20,2021-09-24,4,Time Stop T+4 (Không sinh lời),-8946280.0,-4.65,Phase 1,Tier 1
+VNM,2021-09-20,2021-09-27,5,Cycle Exit T+5 (+0.13% < Chuẩn Phase 2),-690676.0,-0.37,Phase 1,Tier 1
+MWG,2021-09-23,2021-09-29,4,Time Stop T+4 (Không sinh lời),-6920550.0,-3.68,Phase 1,Tier 1
+MBB,2021-09-24,2021-09-30,4,Time Stop T+4 (Không sinh lời),-6308130.0,-3.28,Phase 1,Tier 1
+SHB,2021-10-05,2021-10-14,7,Dynamic Momentum Exit (Gãy EMA10 + Xả Vol lớn),-40765.0,-0.02,Phase 2,Tier 1
+MSN,2021-10-27,2021-11-02,4,Time Stop T+4 (Không sinh lời),-2676864.0,-1.38,Phase 1,Tier 1
+VRE,2021-10-27,2021-11-02,4,Time Stop T+4 (Không sinh lời),-3182595.0,-1.62,Phase 1,Tier 1
+VHM,2021-10-27,2021-11-03,5,Cycle Exit T+5 (+2.35% < Chuẩn Phase 2),3628716.0,1.84,Phase 1,Tier 1
+GAS,2021-09-28,2021-11-04,27,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),41692952.0,22.5,Phase 2,Tier 1
+VRE,2021-11-03,2021-11-09,4,Time Stop T+4 (Không sinh lời),-9095450.0,-4.56,Phase 1,Tier 1
+SAB,2021-11-03,2021-11-10,5,Cycle Exit T+5 (+0.79% < Chuẩn Phase 2),566990.0,0.29,Phase 1,Tier 1
+SHB,2021-11-04,2021-11-10,4,Time Stop T+4 (Không sinh lời),-9895090.0,-5.03,Phase 1,Tier 1
+CTG,2021-10-27,2021-11-11,11,Dynamic Momentum Exit (Gãy EMA10 + Xả Vol lớn),4352225.0,2.21,Phase 2,Tier 1
+MWG,2021-11-11,2021-11-18,5,Cycle Exit T+5 (+2.94% < Chuẩn Phase 2),4663380.0,2.42,Phase 1,Tier 1
+VIC,2021-11-17,2021-11-23,4,Time Stop T+4 (Không sinh lời),-3954000.0,-2.05,Phase 1,Tier 1
+VIB,2021-11-22,2021-11-30,6,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),1486587.0,0.76,Phase 2,Tier 1
+SSI,2021-11-23,2021-12-03,8,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-6568562.0,-3.4,Phase 2,Tier 1
+VHM,2021-12-17,2021-12-23,4,Time Stop T+3 (Không sinh lời),-5511814.0,-2.84,Phase 1,Tier 1
+BSR,2021-12-23,2021-12-30,5,Cycle Exit T+5 (+1.78% < Chuẩn Phase 2),2451944.0,1.27,Phase 1,Tier 1
+SSB,2021-12-27,2022-01-04,5,Cycle Exit T+5 (+3.60% < Chuẩn Phase 2),8366800.0,3.08,Phase 1,Tier 1
+GAS,2022-01-04,2022-01-11,5,Cycle Exit T+5 (+1.38% < Chuẩn Phase 2),2382120.0,0.87,Phase 1,Tier 1
+VHM,2022-01-04,2022-01-11,5,Time Stop T+3 (Không sinh lời),-6167396.0,-2.27,Phase 1,Tier 1
+VRE,2022-01-05,2022-01-17,8,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-12044670.0,-4.4,Phase 2,Tier 1
+STB,2022-01-12,2022-01-17,3,Hard Stop-Loss (-4.5%),-18137600.0,-6.52,Phase 1,Tier 1
+BID,2022-01-12,2022-01-19,5,Cycle Exit T+5 (+3.61% < Chuẩn Phase 2),8580292.0,3.09,Phase 1,Tier 1
+LPB,2022-01-26,2022-02-09,5,Time Stop T+3 (Không sinh lời),-1279160.0,-0.5,Phase 1,Tier 1
+MWG,2022-02-08,2022-02-14,4,Time Stop T+4 (Không sinh lời),-9113871.0,-3.61,Phase 1,Tier 1
+SHB,2022-02-09,2022-02-14,3,Hard Stop-Loss (-5.5%),-23303298.0,-9.08,Phase 1,Tier 1
+LPB,2022-02-11,2022-02-14,1,Hard Stop-Loss (-5.5%),-14193760.0,-7.43,Phase 1,Tier 1
+SAB,2022-02-14,2022-02-21,5,Cycle Exit T+5 (+1.03% < Chuẩn Phase 2),948822.0,0.53,Phase 1,Tier 1
+MSN,2022-02-17,2022-02-23,4,Time Stop T+4 (Không sinh lời),-7097740.0,-4.04,Phase 1,Tier 1
+GVR,2022-02-21,2022-02-25,4,Time Stop T+4 (Không sinh lời),-4104114.0,-2.22,Phase 1,Tier 1
+MBB,2022-02-22,2022-02-28,4,Time Stop T+4 (Không sinh lời),-920560.0,-0.5,Phase 1,Tier 1
+VJC,2022-02-14,2022-03-04,14,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-1695019.0,-0.92,Phase 2,Tier 1
+VRE,2022-03-04,2022-03-09,3,Hard Stop-Loss (-4.5%),-17368572.0,-6.82,Phase 1,Tier 1
+VIC,2022-03-18,2022-03-25,5,Cycle Exit T+5 (+2.79% < Chuẩn Phase 2),4138620.0,2.28,Phase 1,Tier 1
+VIB,2022-03-30,2022-04-05,4,Time Stop T+3 (Không sinh lời),-2076000.0,-0.81,Phase 1,Tier 1
+VNM,2022-03-31,2022-04-05,3,Time Stop T+3 (Không sinh lời),-2694354.0,-1.1,Phase 1,Tier 1
+MWG,2022-03-25,2022-04-08,10,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),18715532.0,7.47,Phase 2,Tier 1
+VIC,2022-04-08,2022-04-15,4,Time Stop T+4 (Không sinh lời),-3162375.0,-1.72,Phase 1,Tier 1
+VRE,2022-04-26,2022-04-29,3,Time Stop T+3 (Không sinh lời),-1826950.0,-1.0,Phase 1,Tier 1
+VHM,2022-05-05,2022-05-12,5,Cycle Exit T+5 (+0.16% < Chuẩn Phase 2),-633270.0,-0.34,Phase 1,Tier 1
+MWG,2022-05-27,2022-06-01,3,Time Stop T+3 (Không sinh lời),-3205615.0,-1.31,Phase 1,Tier 1
+VIB,2022-05-27,2022-06-01,3,Time Stop T+3 (Không sinh lời),-4599686.0,-1.87,Phase 1,Tier 1
+VJC,2022-05-30,2022-06-02,3,Time Stop T+3 (Không sinh lời),-8210016.0,-3.35,Phase 1,Tier 1
+GAS,2022-05-31,2022-06-10,8,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),816292.0,0.33,Phase 2,Tier 1
+MSN,2022-06-06,2022-06-10,4,Time Stop T+3 (Không sinh lời),-1219575.0,-0.5,Phase 1,Tier 1
+VPB,2022-06-08,2022-06-13,3,Hard Stop-Loss (-4.5%),-24792750.0,-9.99,Phase 1,Tier 1
+VRE,2022-07-28,2022-08-04,5,Cycle Exit T+5 (+3.21% < Chuẩn Phase 2),6731548.0,2.69,Phase 1,Tier 1
+VHM,2022-07-29,2022-08-05,5,Cycle Exit T+5 (+3.19% < Chuẩn Phase 2),6725448.0,2.68,Phase 1,Tier 1
+VCB,2022-08-01,2022-08-23,16,Trailing Stop Phase 2 (Phái Sinh Short Basis 1.5xATR),9262882.0,3.65,Phase 2,Tier 1
+VNM,2022-08-23,2022-08-29,4,Time Stop T+3 (Không sinh lời),-2207000.0,-0.91,Phase 1,Tier 1
+BSR,2022-08-23,2022-08-30,5,Cycle Exit T+5 (+3.17% < Chuẩn Phase 2),6526273.0,2.66,Phase 1,Tier 1
+GVR,2022-08-25,2022-09-05,5,Cycle Exit T+5 (+2.94% < Chuẩn Phase 2),6021080.0,2.43,Phase 1,Tier 1
+VCB,2022-08-30,2022-09-06,3,Time Stop T+3 (Không sinh lời),-10786256.0,-4.32,Phase 1,Tier 1
+MWG,2022-08-22,2022-09-07,10,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),14723280.0,5.79,Phase 2,Tier 1
+VHM,2022-09-12,2022-09-16,4,Time Stop T+4 (Không sinh lời),-6396012.0,-3.43,Phase 1,Tier 1
+VRE,2022-09-16,2022-09-21,3,Time Stop T+3 (Không sinh lời),-8643328.0,-4.68,Phase 1,Tier 1
+VHM,2022-10-05,2022-10-11,4,Time Stop T+3 (Không sinh lời),-7786144.0,-4.22,Phase 1,Tier 1
+VRE,2022-10-27,2022-11-23,19,Trailing Stop Phase 2 (Phái Sinh Short Basis 1.5xATR),17506960.0,9.52,Phase 2,Tier 1
+VIB,2022-11-30,2022-12-07,5,Cycle Exit T+5 (+0.86% < Chuẩn Phase 2),906633.0,0.36,Phase 1,Tier 1
+MSN,2022-11-28,2022-12-08,8,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-4374240.0,-1.73,Phase 2,Tier 1
+VIC,2022-11-25,2022-12-12,11,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-6325005.0,-3.41,Phase 2,Tier 1
+VPB,2022-12-15,2022-12-20,3,Hard Stop-Loss (-4.5%),-13966260.0,-5.36,Phase 1,Tier 1
+VRE,2023-01-03,2023-02-01,16,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-1577180.0,-0.87,Phase 2,Tier 1
+MWG,2023-02-01,2023-02-07,4,Time Stop T+4 (Không sinh lời),-8838477.0,-3.45,Phase 1,Tier 1
+VHM,2023-02-20,2023-02-22,2,Hard Stop-Loss (-5.5%),-11466588.0,-6.26,Phase 1,Tier 1
+VRE,2023-02-20,2023-02-23,3,Hard Stop-Loss (-5.5%),-18454080.0,-10.15,Phase 1,Tier 1
+GVR,2023-03-09,2023-03-14,3,Hard Stop-Loss (-4.5%),-15227806.0,-6.05,Phase 1,Tier 1
+VRE,2023-03-13,2023-03-20,5,Time Stop T+4 (Không sinh lời),-1450449.0,-0.82,Phase 1,Tier 1
+VIB,2023-03-15,2023-03-21,4,Time Stop T+4 (Không sinh lời),-8444640.0,-3.41,Phase 1,Tier 1
+VHM,2023-03-22,2023-03-29,5,Time Stop T+4 (Không sinh lời),-1478276.0,-0.85,Phase 1,Tier 1
+SHB,2023-03-23,2023-03-30,5,Cycle Exit T+5 (+1.87% < Chuẩn Phase 2),2397226.0,1.36,Phase 1,Tier 1
+GVR,2023-03-31,2023-04-07,5,Cycle Exit T+5 (+2.90% < Chuẩn Phase 2),4219264.0,2.39,Phase 1,Tier 1
+VIC,2023-03-31,2023-04-07,5,Time Stop T+4 (Không sinh lời),-2794240.0,-1.58,Phase 1,Tier 1
+VRE,2023-05-10,2023-05-17,5,Cycle Exit T+5 (+1.08% < Chuẩn Phase 2),1025508.0,0.58,Phase 1,Tier 1
+HPG,2023-05-12,2023-05-18,4,Time Stop T+4 (Không sinh lời),-3242640.0,-1.82,Phase 1,Tier 1
+MCH,2023-05-12,2023-05-19,5,Cycle Exit T+5 (+0.28% < Chuẩn Phase 2),-134636.73,-0.24,Phase 1,Tier 1
+VJC,2023-05-18,2023-05-24,4,Time Stop T+4 (Không sinh lời),-2829345.0,-1.6,Phase 1,Tier 1
+MCH,2023-05-22,2023-05-26,4,Time Stop T+4 (Không sinh lời),-479778.16,-0.66,Phase 1,Tier 1
+FPT,2023-05-25,2023-06-01,5,Cycle Exit T+5 (+0.33% < Chuẩn Phase 2),-291414.0,-0.17,Phase 1,Tier 1
+ACB,2023-05-31,2023-06-07,5,Cycle Exit T+5 (+2.96% < Chuẩn Phase 2),4342998.0,2.45,Phase 1,Tier 1
+HDB,2023-06-02,2023-06-08,4,Time Stop T+4 (Không sinh lời),-4162034.0,-2.35,Phase 1,Tier 1
+HPG,2023-06-07,2023-06-14,5,Cycle Exit T+5 (+2.29% < Chuẩn Phase 2),3161580.0,1.78,Phase 1,Tier 1
+MSN,2023-06-07,2023-06-14,5,Cycle Exit T+5 (+3.31% < Chuẩn Phase 2),4864500.0,2.8,Phase 1,Tier 1
+VHM,2023-06-13,2023-06-16,3,Time Stop T+3 (Không sinh lời),-3025815.0,-1.7,Phase 1,Tier 1
+SHB,2023-06-14,2023-06-21,5,Cycle Exit T+5 (+1.30% < Chuẩn Phase 2),1981260.0,0.79,Phase 1,Tier 1
+GVR,2023-06-21,2023-06-28,5,Time Stop T+3 (Không sinh lời),-3631033.0,-1.46,Phase 1,Tier 1
+SSB,2023-06-23,2023-06-29,4,Time Stop T+3 (Không sinh lời),-1239375.0,-0.5,Phase 1,Tier 1
+VNM,2023-06-23,2023-06-30,5,Cycle Exit T+5 (+2.73% < Chuẩn Phase 2),5476724.0,2.21,Phase 1,Tier 1
+VRE,2023-06-27,2023-06-30,3,Time Stop T+3 (Không sinh lời),-6845940.0,-2.86,Phase 1,Tier 1
+VRE,2023-07-05,2023-07-10,3,Time Stop T+3 (Không sinh lời),-6149253.0,-2.48,Phase 1,Tier 1
+MSN,2023-07-10,2023-07-17,5,Cycle Exit T+5 (+3.59% < Chuẩn Phase 2),7686720.0,3.08,Phase 1,Tier 1
+MCH,2023-07-10,2023-07-25,11,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),2638246.92,8.01,Phase 2,Tier 1
+VRE,2023-07-25,2023-07-28,3,Time Stop T+3 (Không sinh lời),-2240370.0,-1.21,Phase 1,Tier 1
+MWG,2023-07-07,2023-08-01,17,Dynamic Momentum Exit (Gãy EMA10 + Xả Vol lớn),35020002.0,14.13,Phase 2,Tier 1
+HPG,2023-08-14,2023-08-17,3,Time Stop T+3 (Không sinh lời),-1776562.0,-0.66,Phase 1,Tier 1
+VIC,2023-07-31,2023-08-18,14,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),38488485.0,20.81,Phase 2,Tier 1
+TCB,2023-08-16,2023-08-18,2,Hard Stop-Loss (-4.5%),-23036982.0,-8.48,Phase 1,Tier 1
+VNM,2023-09-05,2023-09-08,3,Time Stop T+3 (Không sinh lời),-1542572.0,-0.6,Phase 1,Tier 1
+GVR,2023-08-31,2023-09-11,5,Time Stop T+3 (Không sinh lời),-2412172.0,-0.93,Phase 1,Tier 1
+SAB,2023-09-11,2023-09-15,4,Time Stop T+3 (Không sinh lời),-3242920.0,-1.26,Phase 1,Tier 1
+VIB,2023-09-13,2023-09-19,4,Time Stop T+4 (Không sinh lời),-4858140.0,-1.87,Phase 1,Tier 1
+VHM,2023-09-15,2023-09-21,4,Time Stop T+4 (Không sinh lời),-2901305.0,-1.11,Phase 1,Tier 1
+GVR,2023-09-20,2023-09-25,3,Hard Stop-Loss (-5.5%),-22683153.0,-12.31,Phase 1,Tier 1
+SHB,2023-11-08,2023-11-13,3,Time Stop T+3 (Không sinh lời),-8411306.0,-3.28,Phase 1,Tier 1
+VHM,2023-11-02,2023-11-17,11,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-5402744.0,-2.98,Phase 2,Tier 1
+VIB,2023-11-14,2023-11-17,3,Time Stop T+3 (Không sinh lời),-7192680.0,-2.82,Phase 1,Tier 1
+VCB,2023-11-15,2023-11-20,3,Time Stop T+3 (Không sinh lời),-5876640.0,-2.31,Phase 1,Tier 1
+MBB,2023-12-04,2023-12-11,5,Cycle Exit T+5 (+0.43% < Chuẩn Phase 2),-171272.0,-0.07,Phase 1,Tier 1
+VRE,2023-12-08,2023-12-13,3,Time Stop T+3 (Không sinh lời),-5014203.0,-2.0,Phase 1,Tier 1
+FPT,2023-12-12,2023-12-18,4,Time Stop T+3 (Không sinh lời),-8271690.0,-3.38,Phase 1,Tier 1
+VHM,2023-12-26,2024-01-11,11,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-536976.0,-0.3,Phase 2,Tier 1
+VRE,2024-01-18,2024-01-25,5,Cycle Exit T+5 (+1.06% < Chuẩn Phase 2),992082.0,0.55,Phase 1,Tier 1
+TCB,2023-12-28,2024-01-31,23,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),16261014.0,9.12,Phase 2,Tier 1
+VNM,2024-02-16,2024-02-23,5,Cycle Exit T+5 (+1.40% < Chuẩn Phase 2),2285708.0,0.9,Phase 1,Tier 1
+VIC,2024-02-16,2024-02-23,5,Cycle Exit T+5 (+2.82% < Chuẩn Phase 2),5946408.0,2.31,Phase 1,Tier 1
+VRE,2024-02-28,2024-02-29,1,Hard Stop-Loss (-4.5%),-9594243.0,-5.17,Phase 1,Tier 1
+SAB,2024-03-06,2024-03-11,3,Time Stop T+3 (Không sinh lời),-9810774.0,-3.75,Phase 1,Tier 1
+MCH,2024-01-25,2024-03-13,29,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),24114882.0,49.56,Phase 2,Tier 1
+FPT,2024-02-01,2024-03-19,28,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),29271025.0,11.57,Phase 2,Tier 1
+VRE,2024-03-18,2024-03-21,3,Time Stop T+3 (Không sinh lời),-4979170.0,-2.67,Phase 1,Tier 1
+VIB,2024-03-20,2024-03-27,5,Cycle Exit T+5 (+2.59% < Chuẩn Phase 2),5411588.0,2.07,Phase 1,Tier 1
+HDB,2024-03-21,2024-03-28,5,Cycle Exit T+5 (+1.49% < Chuẩn Phase 2),2591502.0,0.99,Phase 1,Tier 1
+LPB,2024-03-29,2024-04-03,3,Time Stop T+3 (Không sinh lời),-5879654.0,-2.23,Phase 1,Tier 1
+GVR,2024-04-02,2024-04-04,2,Hard Stop-Loss (-4.5%),-17296612.0,-6.6,Phase 1,Tier 1
+CTG,2024-04-12,2024-04-15,1,Hard Stop-Loss (-5.5%),-13499652.0,-7.31,Phase 1,Tier 1
+VHM,2024-04-10,2024-04-16,4,Time Stop T+4 (Không sinh lời),-7170888.0,-3.87,Phase 1,Tier 1
+VJC,2024-04-12,2024-04-19,4,Time Stop T+4 (Không sinh lời),-7156600.0,-3.94,Phase 1,Tier 1
+MCH,2024-05-02,2024-05-09,5,Cycle Exit T+5 (+0.76% < Chuẩn Phase 2),403205.95,0.23,Phase 1,Tier 1
+VRE,2024-05-03,2024-05-09,4,Time Stop T+4 (Không sinh lời),-5131280.0,-2.83,Phase 1,Tier 1
+VNM,2024-05-07,2024-05-13,4,Time Stop T+4 (Không sinh lời),-6713236.0,-3.71,Phase 1,Tier 1
+VJC,2024-05-06,2024-05-21,11,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-2248160.0,-1.29,Phase 2,Tier 1
+VRE,2024-05-17,2024-05-23,4,Time Stop T+4 (Không sinh lời),-1711125.0,-0.94,Phase 1,Tier 1
+SAB,2024-05-23,2024-05-30,5,Time Stop T+4 (Không sinh lời),-1497086.0,-0.84,Phase 1,Tier 1
+LPB,2024-05-28,2024-06-04,5,Cycle Exit T+5 (+3.02% < Chuẩn Phase 2),4549344.0,2.51,Phase 1,Tier 1
+STB,2024-06-06,2024-06-13,5,Cycle Exit T+5 (+3.09% < Chuẩn Phase 2),4761900.0,2.58,Phase 1,Tier 1
+SAB,2024-06-04,2024-06-14,8,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),4896358.0,2.73,Phase 2,Tier 1
+MBB,2024-06-13,2024-06-19,4,Time Stop T+4 (Không sinh lời),-2867400.0,-1.55,Phase 1,Tier 1
+BSR,2024-05-22,2024-06-24,23,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),10609314.0,5.93,Phase 2,Tier 1
+VPB,2024-06-20,2024-06-26,4,Time Stop T+4 (Không sinh lời),-7469952.0,-4.04,Phase 1,Tier 1
+VRE,2024-06-25,2024-07-02,5,Cycle Exit T+5 (+1.90% < Chuẩn Phase 2),2516624.0,1.39,Phase 1,Tier 1
+HDB,2024-07-09,2024-07-16,5,Cycle Exit T+5 (+2.05% < Chuẩn Phase 2),2821338.0,1.54,Phase 1,Tier 1
+HDB,2024-07-17,2024-07-23,4,Time Stop T+4 (Không sinh lời),-2041345.0,-1.11,Phase 1,Tier 1
+VPB,2024-07-31,2024-08-06,4,Time Stop T+4 (Không sinh lời),-7190100.0,-3.95,Phase 1,Tier 1
+VNM,2024-07-31,2024-08-07,5,Cycle Exit T+5 (+3.10% < Chuẩn Phase 2),4604330.0,2.58,Phase 1,Tier 1
+VHM,2024-08-07,2024-08-13,4,Time Stop T+4 (Không sinh lời),-5082864.0,-2.78,Phase 1,Tier 2
+MWG,2024-08-16,2024-08-23,5,Cycle Exit T+5 (+1.45% < Chuẩn Phase 2),1706913.0,0.94,Phase 1,Tier 1
+SSB,2024-08-22,2024-08-28,4,Time Stop T+4 (Không sinh lời),-8983910.0,-4.16,Phase 1,Tier 1
+VHM,2024-08-15,2024-09-16,20,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),17732400.0,9.71,Phase 2,Tier 1
+ACB,2024-09-20,2024-09-27,5,Cycle Exit T+5 (+0.98% < Chuẩn Phase 2),871600.0,0.47,Phase 1,Tier 1
+STB,2024-09-27,2024-10-04,5,Time Stop T+4 (Không sinh lời),-3665750.0,-1.98,Phase 1,Tier 1
+LPB,2024-10-08,2024-10-11,3,Time Stop T+3 (Không sinh lời),-4784144.0,-1.85,Phase 1,Tier 1
+VRE,2024-10-11,2024-10-16,3,Time Stop T+3 (Không sinh lời),-5332320.0,-2.07,Phase 1,Tier 1
+VHM,2024-10-21,2024-10-24,3,Hard Stop-Loss (-4.5%),-22304340.0,-8.71,Phase 1,Tier 1
+HPG,2024-11-11,2024-11-15,4,Hard Stop-Loss (-5.5%),-12606300.0,-7.02,Phase 1,Tier 1
+VHM,2024-11-20,2024-11-25,3,Time Stop T+3 (Không sinh lời),-3343730.0,-1.88,Phase 1,Tier 1
+VIC,2024-12-06,2024-12-12,4,Time Stop T+4 (Không sinh lời),-5015606.0,-2.78,Phase 1,Tier 1
+VRE,2024-12-25,2024-12-31,4,Time Stop T+4 (Không sinh lời),-2494170.0,-1.39,Phase 1,Tier 1
+FPT,2024-11-29,2025-01-03,24,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),8365000.0,3.46,Phase 2,Tier 1
+VIC,2025-01-16,2025-01-22,4,Time Stop T+4 (Không sinh lời),-1153328.0,-0.65,Phase 1,Tier 1
+FPT,2025-01-23,2025-02-03,2,Hard Stop-Loss (-5.5%),-10435295.0,-6.17,Phase 1,Tier 1
+VPB,2025-01-23,2025-02-06,5,Cycle Exit T+5 (+0.83% < Chuẩn Phase 2),591500.0,0.33,Phase 1,Tier 1
+MWG,2025-01-24,2025-02-06,4,Time Stop T+4 (Không sinh lời),-3902249.0,-2.15,Phase 1,Tier 1
+VRE,2025-02-05,2025-02-11,4,Time Stop T+4 (Không sinh lời),-5610660.0,-3.13,Phase 1,Tier 1
+TCB,2025-02-07,2025-02-14,5,Cycle Exit T+5 (+0.98% < Chuẩn Phase 2),849939.0,0.47,Phase 1,Tier 1
+LPB,2025-01-22,2025-02-20,16,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),14611635.0,8.13,Phase 2,Tier 1
+VRE,2025-02-18,2025-02-25,5,Cycle Exit T+5 (+2.40% < Chuẩn Phase 2),3382280.0,1.89,Phase 1,Tier 1
+GAS,2025-02-19,2025-02-25,4,Time Stop T+4 (Không sinh lời),-873045.0,-0.5,Phase 1,Tier 1
+GVR,2025-02-19,2025-02-26,5,Cycle Exit T+5 (+2.98% < Chuẩn Phase 2),4395612.0,2.47,Phase 1,Tier 1
+HPG,2025-02-27,2025-03-04,3,Time Stop T+3 (Không sinh lời),-6479312.0,-2.57,Phase 1,Tier 1
+GAS,2025-03-04,2025-03-07,3,Time Stop T+3 (Không sinh lời),-6628622.0,-2.37,Phase 1,Tier 1
+TCB,2025-03-04,2025-03-11,5,Cycle Exit T+5 (+1.83% < Chuẩn Phase 2),3299920.0,1.32,Phase 1,Tier 1
+VRE,2025-03-07,2025-03-14,5,Cycle Exit T+5 (+3.01% < Chuẩn Phase 2),4537253.0,2.5,Phase 1,Tier 1
+VPB,2025-03-17,2025-03-20,3,Time Stop T+3 (Không sinh lời),-9313758.0,-3.48,Phase 1,Tier 1
+VIC,2025-03-03,2025-04-03,23,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),82629316.0,32.95,Phase 2,Tier 1
+SHB,2025-03-14,2025-04-03,14,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),27183779.0,8.8,Phase 2,Tier 2
+VIC,2025-04-04,2025-04-08,1,Hard Stop-Loss (-4.5%),-11664365.0,-5.96,Phase 1,Tier 1
+VJC,2025-04-25,2025-04-29,2,Hard Stop-Loss (-4.5%),-16753800.0,-5.97,Phase 1,Tier 1
+BSR,2025-05-07,2025-05-14,5,Cycle Exit T+5 (+2.78% < Chuẩn Phase 2),6420310.0,2.26,Phase 1,Tier 1
+VRE,2025-04-09,2025-05-15,23,Dynamic Momentum Exit (Gãy EMA10 + Xả Vol lớn),64771608.0,33.51,Phase 2,Tier 1
+VPL,2025-05-16,2025-05-21,3,Time Stop T+3 (Không sinh lời),-12585600.0,-3.45,Phase 1,Tier 1
+GAS,2025-05-30,2025-06-05,4,Time Stop T+4 (Không sinh lời),-4870534.0,-2.34,Phase 1,Tier 1
+VHM,2025-05-20,2025-06-09,14,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),23676180.0,11.82,Phase 2,Tier 1
+MSN,2025-06-05,2025-06-11,4,Time Stop T+4 (Không sinh lời),-4110600.0,-2.01,Phase 1,Tier 1
+FPT,2025-06-16,2025-06-20,4,Time Stop T+4 (Không sinh lời),-5915440.0,-2.92,Phase 1,Tier 1
+VHM,2025-06-24,2025-06-30,4,Time Stop T+4 (Không sinh lời),-2566242.0,-1.27,Phase 1,Tier 1
+SAB,2025-06-25,2025-07-01,4,Time Stop T+4 (Không sinh lời),-4321344.0,-2.12,Phase 1,Tier 1
+STB,2025-06-12,2025-07-29,33,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),12447000.0,6.13,Phase 2,Tier 1
+VRE,2025-07-09,2025-07-29,14,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),8011536.0,3.96,Phase 2,Tier 1
+VRE,2025-08-05,2025-08-08,3,Time Stop T+3 (Không sinh lời),-10346893.0,-3.56,Phase 1,Tier 1
+VRE,2025-08-14,2025-08-19,3,Time Stop T+3 (Không sinh lời),-3553500.0,-1.18,Phase 1,Tier 1
+SHB,2025-07-31,2025-08-22,16,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),36844800.0,12.77,Phase 2,Tier 1
+LPB,2025-08-12,2025-08-27,11,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),42394671.0,14.53,Phase 2,Tier 1
+VIC,2025-08-20,2025-08-29,7,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),6066725.0,2.79,Phase 2,Tier 1
+VCB,2025-08-27,2025-09-03,3,Time Stop T+3 (Không sinh lời),-10577336.0,-3.53,Phase 1,Tier 1
+MWG,2025-09-11,2025-09-17,4,Time Stop T+3 (Không sinh lời),-4467204.0,-1.51,Phase 1,Tier 1
+VNM,2025-09-12,2025-09-19,5,Time Stop T+3 (Không sinh lời),-7134492.0,-2.39,Phase 1,Tier 1
+VIC,2025-09-19,2025-09-24,3,Time Stop T+3 (Không sinh lời),-9659130.0,-3.23,Phase 1,Tier 1
+VHM,2025-09-29,2025-10-03,4,Time Stop T+4 (Không sinh lời),-4999137.0,-2.36,Phase 1,Tier 1
+STB,2025-10-01,2025-10-07,4,Time Stop T+4 (Không sinh lời),-5582850.0,-2.66,Phase 1,Tier 1
+VPL,2025-10-07,2025-10-14,5,Time Stop T+4 (Không sinh lời),-1278480.0,-0.61,Phase 1,Tier 1
+BSR,2025-10-09,2025-10-15,4,Time Stop T+4 (Không sinh lời),-2316320.0,-1.07,Phase 1,Tier 1
+CTG,2025-10-09,2025-10-16,5,Time Stop T+4 (Không sinh lời),-4026476.0,-1.86,Phase 1,Tier 1
+VRE,2025-10-03,2025-10-20,11,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),33239052.0,15.89,Phase 2,Tier 1
+FPT,2025-10-28,2025-11-04,5,Cycle Exit T+5 (+1.07% < Chuẩn Phase 2),1590092.0,0.57,Phase 1,Tier 1
+GAS,2025-10-31,2025-11-07,5,Cycle Exit T+5 (+2.11% < Chuẩn Phase 2),4742880.0,1.6,Phase 1,Tier 1
+VRE,2025-11-24,2025-11-27,3,Time Stop T+3 (Không sinh lời),-8593168.0,-2.8,Phase 1,Tier 1
+VPL,2025-11-21,2025-12-03,8,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),170346800.0,33.56,Phase 2,Tier 1
+TCX,2025-11-27,2025-12-03,4,Time Stop T+4 (Không sinh lời),-7774092.0,-1.45,Phase 1,Tier 1
+VIC,2025-12-05,2025-12-12,5,Cycle Exit T+5 (+0.84% < Chuẩn Phase 2),771840.0,0.34,Phase 1,Tier 1
+BSR,2025-12-19,2025-12-25,4,Time Stop T+4 (Không sinh lời),-1969110.0,-0.81,Phase 1,Tier 1
+VIC,2025-12-19,2025-12-26,5,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),10902200.0,3.86,Phase 2,Tier 1
+STB,2025-12-29,2026-01-06,4,Time Stop T+4 (Không sinh lời),-14308590.0,-5.81,Phase 1,Tier 1
+VIC,2025-12-31,2026-01-12,6,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-11441510.0,-3.96,Phase 2,Tier 1
+VCB,2026-01-09,2026-01-16,5,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),42392864.0,6.82,Phase 2,Tier 1
+FPT,2026-01-16,2026-01-21,3,Time Stop T+3 (Không sinh lời),-4992545.0,-0.79,Phase 1,Tier 1
+GAS,2025-12-25,2026-02-10,31,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),239642550.0,54.86,Phase 2,Tier 1
+HPG,2026-02-04,2026-02-10,4,Hard Stop-Loss (-5.5%),-27242244.0,-6.64,Phase 1,Tier 1
+HPG,2026-02-24,2026-03-03,5,Time Stop T+4 (Không sinh lời),-12897787.0,-2.59,Phase 1,Tier 1
+GVR,2026-02-25,2026-03-04,5,Cycle Exit T+5 (+3.32% < Chuẩn Phase 2),7819680.0,2.8,Phase 1,Tier 1
+VPL,2026-03-11,2026-03-16,3,Time Stop T+3 (Không sinh lời),-7166800.0,-2.41,Phase 1,Tier 1
+VPL,2026-03-19,2026-03-24,3,Time Stop T+3 (Không sinh lời),-7559640.0,-2.59,Phase 1,Tier 1
+VRE,2026-04-01,2026-04-06,3,Hard Stop-Loss (-4.5%),-27083535.0,-7.01,Phase 1,Tier 1
+VRE,2026-04-08,2026-04-13,3,Time Stop T+3 (Không sinh lời),-2475759.0,-0.65,Phase 1,Tier 1
+LPB,2026-04-06,2026-04-17,9,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),-2952288.0,-0.7,Phase 2,Tier 1
+VRE,2026-04-15,2026-04-21,4,Time Stop T+3 (Không sinh lời),-1358400.0,-0.5,Phase 1,Tier 1
+VHM,2026-04-22,2026-04-24,2,Hard Stop-Loss (-4.5%),-17496227.0,-6.52,Phase 1,Tier 1
+VRE,2026-04-28,2026-05-11,7,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),22888350.0,8.53,Phase 2,Tier 1
+LPB,2026-05-12,2026-05-15,3,Time Stop T+3 (Không sinh lời),-3193000.0,-0.5,Phase 1,Tier 1
+SAB,2026-05-15,2026-05-20,3,Time Stop T+3 (Không sinh lời),-14612112.0,-2.23,Phase 1,Tier 1
+BSR,2026-05-11,2026-05-22,9,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),24839439.0,6.5,Phase 2,Tier 1
+FPT,2026-05-20,2026-05-25,3,Hard Stop-Loss (-4.5%),-23004978.0,-5.87,Phase 1,Tier 1
+VHM,2026-05-28,2026-06-02,3,Time Stop T+3 (Không sinh lời),-12913915.0,-4.85,Phase 1,Tier 1
+VIC,2026-06-18,2026-06-29,7,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),13958880.0,5.22,Phase 2,Tier 1
+LPB,2026-06-23,2026-06-30,5,Cycle Exit T+5 (+1.71% < Chuẩn Phase 2),7675030.0,1.2,Phase 1,Tier 1
+HDB,2026-07-03,2026-07-10,5,Cycle Exit T+5 (+0.19% < Chuẩn Phase 2),-857490.0,-0.31,Phase 1,Tier 1
+BSR,2026-07-09,2026-07-15,4,Time Stop T+4 (Không sinh lời),-1891575.0,-0.69,Phase 1,Tier 1
+VNM,2026-07-10,2026-07-16,4,Time Stop T+4 (Không sinh lời),-5863480.0,-1.2,Phase 1,Tier 1
+VIC,2026-07-23,2026-07-28,3,Time Stop T+3 (Không sinh lời),-1523280.0,-0.59,Phase 1,Tier 1
+SAB,2026-08-03,2026-08-06,3,Time Stop T+3 (Không sinh lời),-19018080.0,-2.94,Phase 1,Tier 1
+VRE,2026-07-29,2026-08-07,7,Trailing Stop Phase 2 (Phái Sinh Short Basis 1.5xATR),24747835.0,9.12,Phase 2,Tier 1
+VNM,2026-08-07,2026-08-12,3,Time Stop T+3 (Không sinh lời),-2954520.0,-0.82,Phase 1,Tier 1
+GVR,2026-08-10,2026-08-14,4,Time Stop T+3 (Không sinh lời),-8632080.0,-2.38,Phase 1,Tier 1
+TCX,2026-08-21,2026-08-27,4,Time Stop T+4 (Không sinh lời),-2830800.0,-0.98,Phase 1,Tier 1
+VPB,2026-08-27,2026-09-07,4,Time Stop T+3 (Không sinh lời),-3337470.0,-0.86,Phase 1,Tier 1
+STB,2026-09-04,2026-09-09,3,Time Stop T+3 (Không sinh lời),-6695960.0,-1.27,Phase 1,Tier 1
+VIC,2026-08-26,2026-09-11,9,Trailing Stop Phase 2 (Tiêu Chuẩn 2.0xATR),19376160.0,5.25,Phase 2,Tier 1
+FPT,2026-09-10,2026-09-11,1,Chốt Cuối Kỳ Backtest (Mark-to-Market),-11237595.0,-2.95,Phase 1,Tier 1

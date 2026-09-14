@@ -1,0 +1,92 @@
+{
+  "Cluster_1": {
+    "stocks": [
+      "VHM",
+      "VIC",
+      "VPL",
+      "VRE"
+    ],
+    "member_count": 4,
+    "rvol": 1.531,
+    "rs": 1.0811,
+    "rs_momentum_5d_pct": 1.47,
+    "top_momentum_stock": "VPL",
+    "top_stock_rs_momentum_5d_pct": 8.23
+  },
+  "Cluster_2": {
+    "stocks": [
+      "BID",
+      "ACB",
+      "CTG",
+      "HDB",
+      "HPG",
+      "MBB",
+      "SHB",
+      "MSN",
+      "MWG",
+      "SSI",
+      "TCB",
+      "VCB",
+      "TCX",
+      "VIB",
+      "VPB"
+    ],
+    "member_count": 15,
+    "rvol": 0.818,
+    "rs": 0.938,
+    "rs_momentum_5d_pct": -2.59,
+    "top_momentum_stock": "VPB",
+    "top_stock_rs_momentum_5d_pct": 2.42
+  },
+  "Cluster_3": {
+    "stocks": [
+      "GAS",
+      "BSR",
+      "GVR"
+    ],
+    "member_count": 3,
+    "rvol": 0.76,
+    "rs": 1.0768,
+    "rs_momentum_5d_pct": -0.1,
+    "top_momentum_stock": "GAS",
+    "top_stock_rs_momentum_5d_pct": -1.19
+  },
+  "Cluster_4": {
+    "stocks": [
+      "FPT",
+      "MCH",
+      "SSB",
+      "VJC"
+    ],
+    "member_count": 4,
+    "rvol": 1.127,
+    "rs": 1.0655,
+    "rs_momentum_5d_pct": 2.63,
+    "top_momentum_stock": "SSB",
+    "top_stock_rs_momentum_5d_pct": 11.96
+  },
+  "Cluster_5": {
+    "stocks": [
+      "SAB",
+      "STB",
+      "VNM"
+    ],
+    "member_count": 3,
+    "rvol": 0.697,
+    "rs": 1.1089,
+    "rs_momentum_5d_pct": -1.76,
+    "top_momentum_stock": "STB",
+    "top_stock_rs_momentum_5d_pct": 3.05
+  },
+  "Cluster_6": {
+    "stocks": [
+      "LPB"
+    ],
+    "member_count": 1,
+    "rvol": 0.641,
+    "rs": 1.1628,
+    "rs_momentum_5d_pct": 0.46,
+    "top_momentum_stock": "LPB",
+    "top_stock_rs_momentum_5d_pct": 0.46
+  }
+}
